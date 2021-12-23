@@ -6,11 +6,11 @@ class exam6 {
     x = x * 3;
     //x * = 3;
 
-    System.out.println("x="x);
+    System.out.println("x=" + x);
 
     x = x / 2;
     //x / = 2;
 
-    System.out.println("x="x);
+    System.out.println("x=" + x);
   }
 }
